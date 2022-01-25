@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11145833333333334" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/drawable/buttonshape.xml" value="0.2203125" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/drawable/home_background.xml" value="0.1" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.11145833333333334" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_career_details.xml" value="0.2" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_categories.xml" value="0.15" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_job_details.xml" value="0.18" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_more.xml" value="0.15885416666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_personal_info.xml" value="0.25" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_post_categories.xml" value="0.1265625" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_profile_view.xml" value="0.22" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_spalsh_screen.xml" value="0.18" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_thanks_message.xml" value="0.1" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/activity_welcome.xml" value="0.18" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/buttonshape.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/career_info_lay.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/categories_list.xml" value="0.1" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/content_job_details.xml" value="0.14" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/content_more.xml" value="0.15885416666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/content_recycle_view.xml" value="0.1" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/content_recycle_view_categoreies.xml" value="0.16893115942028986" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/content_recycle_view_categories.xml" value="0.19947916666666668" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/content_recycle_view_more.xml" value="0.15885416666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/content_recycle_view_postcat.xml" value="0.19947916666666668" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/jobs_list.xml" value="0.1" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/nav_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/personal_info_lay.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/thank_message_lay.xml" value="0.21" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/layout/welcome_message_lay.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/menu/job_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/menu/menu_home.xml" value="0.1984375" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/menu/toolbarmenu.xml" value="0.1" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/menu/welcome.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/onlinejobssearch/app/src/main/res/mipmap-anydpi-v26/home.xml" value="0.1" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/drawable/alarm.xml" value="0.240625" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/drawable/buttonshape.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/drawable/sync.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/activity_career_details.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/activity_categories.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/activity_job_details.xml" value="0.18" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/activity_main.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/activity_more.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/activity_personal_info.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/activity_post_categories.xml" value="0.21" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/activity_profile_view.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/categories_list.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/content_main.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/content_profile_view.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/jobs_list.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/jobssearching/app/src/main/res/layout/nav_header.xml" value="0.10688956433637285" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/drawable/buttonshape.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_career_details.xml" value="0.25" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_categories.xml" value="0.21" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_job_details.xml" value="0.10714285714285714" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_more.xml" value="0.2" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_personal_info.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_post_categories.xml" value="0.1" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_profile_view.xml" value="0.25" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_spalsh_screen.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_thanks_message.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_welcome.xml" value="0.18" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/banner_ad.xml" value="0.25" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/career_info_lay.xml" value="0.22" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/categories_list.xml" value="0.22" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_job_details.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_more.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_profile_view.xml" value="0.22" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_recycle_view.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_recycle_view_categoreies.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_recycle_view_categories.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_recycle_view_more.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/jobs_list.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/nav_header.xml" value="0.14" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/personal_info_lay.xml" value="0.25" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/snackbar_lay.xml" value="0.22" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/thank_message_lay.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/welcome_message_lay.xml" value="0.22" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/DUCE/AndroidStudioProjects/onlinejobssearch/app/src/main/res/mipmap-anydpi-v26/onlinejobssearchlauncher.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_career_details.xml" value="0.1" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_categories.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_job_details.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_main.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_more.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_personal_info.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_post_categories.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_profile_view.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_spalsh_screen.xml" value="0.11927083333333334" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_thanks_message.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/activity_welcome.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_job_details.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/content_main.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/app/src/main/res/layout/nav_header.xml" value="0.11927083333333334" />
+        <entry key="..\:/Users/gil_t/AndroidStudioProjects/onlinejobssearch/onlinejobssearch/app/src/main/res/layout/jobs_list.xml" value="0.12760416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

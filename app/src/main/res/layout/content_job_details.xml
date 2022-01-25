@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/jobDetailsRefreshLayout"
+    android:layout_marginBottom="@dimen/banner_height"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+          <ScrollView
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+              <LinearLayout
+                  android:id="@+id/linearInsideNested"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical">
+
+                  <TextView
+                      android:textStyle="bold"
+                      android:padding="10dp"
+                      android:id="@+id/title"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_marginTop="10dp"
+                      android:layout_marginStart="10dp"
+                      android:layout_marginEnd="10dp"
+                      android:layout_marginBottom="10dp"
+                      android:textAlignment="center"
+                      android:textColor="@android:color/black"
+                      android:textSize="20sp" />
+
+                  <ImageView
+                      android:layout_marginLeft="1dp"
+                      android:layout_marginRight="1dp"
+                      android:contentDescription="@string/app_name"
+                      android:id="@+id/featuredImage"
+                      android:scaleType="fitXY"
+                      android:layout_width="match_parent"
+                      android:layout_height="220dp"
+                      android:layout_marginEnd="0dp"
+                      android:layout_marginStart="0dp" />
+
+                  <TextView
+                      android:visibility="gone"
+                      android:layout_marginBottom="10dp"
+                      android:layout_marginEnd="10dp"
+                      android:drawablePadding="3dp"
+                      app:drawableStartCompat="@drawable/alarm"
+                      android:layout_marginTop="15dp"
+                      android:paddingEnd="10dp"
+                      android:paddingStart="10dp"
+                      android:id="@+id/datePosted"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_marginStart="12dp"
+                      android:textAlignment="textStart"
+                      android:textColor="@android:color/black"
+                      android:textSize="15sp" />
+
+                  <TextView
+                      android:paddingBottom="95dp"
+                      android:paddingEnd="10dp"
+                      android:paddingStart="10dp"
+                      android:layout_marginEnd="10dp"
+                      android:layout_marginTop="5dp"
+                      android:layout_marginStart="10dp"
+                      android:id="@+id/jobDescriptions"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:textAlignment="textStart"
+                      android:textColor="@android:color/black"
+                      android:textSize="15sp" />
+              </LinearLayout>
+          </ScrollView>
+
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+

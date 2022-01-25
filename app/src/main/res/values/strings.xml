@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Jobs in UAE</string>
+    <string name="more">MORE</string>
+    <string name="home">Home</string>
+    <string name="cat">Categories</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="policy"><![CDATA[Privacy & Policies]]></string>
+    <string name="persdesc">User image</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <!--  APPLOVIN  -->
+    <string name="bannerAdUnits">8bef0c85967158c5</string>
+    <string name="interstitialAdUnits">bbf088fcce007e7b</string>
+
+    <string name="appLovinSdkKey">
+        FgrurpXNFGy-fP4w2S41lcoD7LOeFvTmU5PtlC_iz7UQXiCLW4iOUhc-izNmFBogZNZHshwTaeqRwyIlmKDQoi
+    </string>
+
+    <string name="facebookId">
+           472163337578471
+    </string>
+
+    <string name="oneSignalAppID">
+        45fb25b7-c1e6-4c1b-9c29-563b6f96874a
+    </string>
+
+    <!-- NEW NEW  -->
+    <string name="clock">Icon Clock</string>
+    <string name="next">Next</string>
+    <string name="hi">Hi,</string>
+    <string name="welcome">Welcome.</string>
+    <string name="message">Dear client welcome to ONLINE JOBS SEARCH Our Organization is focused on serving our clients dependent on trust and loyality. Our aim is to bring you closely to job opportiunities available in UAE.</string>
+    <string name="your">Your</string>
+    <string name="persanalinfo">Education Level.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">Register</string>
+    <string name="home_address">Home Address</string>
+    <string name="email">Email</string>
+    <string name="careerInfo">Career Info.</string>
+    <string name="natinality">Nationality</string>
+    <string name="level">Education Level</string>
+    <string name="program">Program</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="prof">Professionalism</string>
+    <string name="helper">This will be as your  job title.</string>
+    <string name="messageThanks">Informations you have provided to us will be shown to your home page. We will use that informations to notify you on the ability of a job you were looking for.</string>
+    <string name="thanks">Thank You</string>
+    <string name="feelFree">Just feel free. Your informations are on the safe hands.</string>
+    <string name="tick">Tick</string>
+    <string name="profile">View Profile</string>
+    <string name="edulevel">Education Highest Level</string>
+    <string name="yearStudy">Years of Study</string>
+    <string name="share">Share to Friend</string>
+    <string name="launcher_icon">Launcher  Icon</string>
+    <string name="wait">A view is settting up..</string>
+    <string name="secondary">SECONDARY SCHOOL</string>
+    <string name="highschool">HIGH SCHOOL</string>
+    <string name="college">COLLEGE</string>
+    <string name="university">UNIVERSITY</string>
+
+    <string name="dealysMillSec">1500</string>
+    <string name="adMessage">Ad is going to be shown soon.</string>
+
+</resources>
