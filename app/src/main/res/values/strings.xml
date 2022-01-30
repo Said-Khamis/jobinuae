@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Jobs in UAE</string>
+    <string name="app_name">UAE Job Search</string>
     <string name="more">MORE</string>
     <string name="home">Home</string>
     <string name="cat">Categories</string>
@@ -11,15 +11,15 @@
 
 
     <!--  APPLOVIN  -->
-    <string name="bannerAdUnits">8bef0c85967158c5</string>
-    <string name="interstitialAdUnits">bbf088fcce007e7b</string>
+    <string name="bannerAdUnits">d147e12e6e693980</string>
+    <string name="interstitialAdUnits">e9ee0f1ecc234ea0</string>
 
     <string name="appLovinSdkKey">
-        FgrurpXNFGy-fP4w2S41lcoD7LOeFvTmU5PtlC_iz7UQXiCLW4iOUhc-izNmFBogZNZHshwTaeqRwyIlmKDQoi
+            lkiUtdFQS-kkv1UZF5IgbBL3HP1DN_akMVcyTgH1NBcvnFktWOKn-ebH2ElmyuSM45hTFmmaZVZERqlZUG1amT
     </string>
 
     <string name="facebookId">
-           472163337578471
+           5275045085856931
     </string>
 
     <string name="oneSignalAppID">

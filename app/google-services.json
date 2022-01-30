@@ -41,6 +41,43 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615778188798:android:f9f0e091727a12759854af",
+        "android_client_info": {
+          "package_name": "com.duce.uaejobsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615778188798-e0t1l3u8pmit774r9crr8ee0g84ok16v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duce.uaejobsearch",
+            "certificate_hash": "f8063e4e15238960e854e405b2fd5e6a40c4d75c"
+          }
+        },
+        {
+          "client_id": "615778188798-7ddv647tbr25hehne3n4mts651ejiheu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCbPz9ExAV-JzJbcCI0xHCZqsvtCXIRg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615778188798-7ddv647tbr25hehne3n4mts651ejiheu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_marginBottom="5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--<TextView
+            android:background="@color/black"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="40sp"
+            android:layout_weight="25"
+            android:id="@+id/textShort"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>-->
+        <ImageView
+            android:src="@drawable/splashicon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"/>
+
+        <LinearLayout
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:gravity="center_vertical"
+                android:text="@string/secondary"
+                android:layout_marginTop="3dp"
+                android:id="@+id/datePosted"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageNetwork"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_marginTop="2dp"
+        android:contentDescription="@string/adMessage"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:id="@+id/postInShort"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="false"
+            android:padding="10dp"
+            android:text="@string/adMessage"
+            android:textAlignment="textStart"
+            android:textSize="15sp" />
+
+    </RelativeLayout>
+</LinearLayout>
